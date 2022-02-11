@@ -1,6 +1,8 @@
 # CIS18A-Project
 Nail salon appointment
+
 Team Members: Brandon Corona, Jessica Luevano
+
 Once the program is ran, it prints a welcome message with a list of options being followed from it. 
 Those options contain 6 of them with 2 add ons, if the customer desires. Once the customer selects an option, 
 they are asked if they would like to add an add on. The program won't continue to the next step if the customer 
